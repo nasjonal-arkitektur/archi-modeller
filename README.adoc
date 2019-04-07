@@ -1,0 +1,4 @@
+= Modell-samling
+
+Her samles arkitekturmodeller av felles interesse for arbeidet med virksomhetsarkitektur i norsk offentlig sektor.
+
